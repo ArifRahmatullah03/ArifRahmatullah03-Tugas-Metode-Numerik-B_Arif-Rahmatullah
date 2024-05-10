@@ -1,0 +1,5 @@
+Tugas Metode Numerik Kelas B : Implementasi SIstem Persamaan Linear
+
+Nama		: Arif Rahmatullah
+NIM		: 21120122120002
+Mata Kuliah	: Metode Numerik Kelas B
